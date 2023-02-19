@@ -1,2 +1,2 @@
 # InducedCross
-Computational Tools project - Possibles Source of Induced Seismicity
+Time series clusterization based on window division
